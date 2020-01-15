@@ -1,0 +1,30 @@
+body{
+  color: #fff;
+}
+
+p{
+  line-height: 24px; 
+  margin: 0 0 5px;
+}
+.card-container {
+  /* display: flex;
+  flex-direction: column; */
+  background-color: #2d2a2a;
+  border: 1px solid #0a0a0a;
+  padding: 25px;
+  cursor: pointer;
+  -moz-osx-font-smoothing: grayscale;
+  backface-visibility: hidden;
+  transform: translateZ(0);
+  transition: transform 0.25s ease-out;
+}
+
+.card-container:hover {
+  transform: scale(1.05);
+}
+
+.small{
+  color: #efb345;
+}
+
+img{width:auto; max-width:200px}

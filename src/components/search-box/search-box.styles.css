@@ -1,0 +1,29 @@
+.search-box {
+  -webkit-appearance: none;
+  border: 1px solid #ccc;
+  outline: none;
+  padding: 5px;
+  width: 100%;
+  max-width: 300px;
+  line-height: 30px;
+  margin-bottom: 30px;
+  float: left;
+}
+
+
+.sorting-box-container select{
+  -webkit-appearance: none;
+  border: 1px solid #ccc;
+  outline: none;
+  padding: 5px;
+  width: 100%;
+  max-width: 150px;
+  line-height: 30px;
+  margin-bottom: 30px;
+  float: right;
+}
+
+p{
+  color: #999797;
+  font-size: 14px;
+}
